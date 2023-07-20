@@ -1,38 +1,27 @@
-
-# SEO
-title: Athena Jekyll Theme
-description: A simple and elegant theme for Jekyll and GitHub Pages.
-
-# social
+title: Footprints of Sunshine and Moonlight
+description: >-
+  This project is an effort to compare the different literary footprints present
+  in the film Moonlight (2016) and the novel _Stilstville_ (2010). 
 social_link: twitter
 social_username: broccolini
-github_repo: athena # the GitHub repo name for your project
+github_repo: athena
 github_username: broccolini
 theme_color: light
-
-# Theme
-remote_theme: 'internet-de-france/athena'
-baseurl: '/footprints_of_sunshine_and_moonlight'
-
-# Defaults
-
+remote_theme: internet-de-france/athena
+baseurl: /footprints_of_sunshine_and_moonlight
 defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
+  - scope:
+      path: ''
+      type: pages
     values:
-      category_name: ""
-  -
-    scope:
-      path: ""
-      type: "posts"
+      category_name: ''
+  - scope:
+      path: ''
+      type: posts
     values:
-      categories: ""
-
-# Stastic UI
-remote_theme_layouts: 
-  - ""
+      categories: ''
+remote_theme_layouts:
+  - ''
   - default
   - page
   - post
@@ -43,7 +32,6 @@ social_links:
   - instagram
   - medium
   - dribbble
-
 theme_colors:
   - light
   - black
@@ -54,5 +42,3 @@ theme_colors:
   - red
   - white
   - yellow
-
-
