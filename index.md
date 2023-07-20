@@ -1,10 +1,7 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Footprints in Sunshine and Moonlight
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+This project is part of the Mapping Imaginary Miami project.
