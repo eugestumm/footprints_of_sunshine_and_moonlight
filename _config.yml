@@ -2,10 +2,10 @@ title: Footprints of Sunshine and Moonlight
 description: >-
   This project is an effort to compare the different literary footprints present
   in the film Moonlight (2016) and the novel _Stilstville_ (2010). 
-social_link: twitter
-social_username: broccolini
-github_repo: athena
-github_username: broccolini
+social_link: 
+social_username: 
+github_repo: 
+github_username: eugestumm
 theme_color: light
 remote_theme: internet-de-france/athena
 baseurl: /footprints_of_sunshine_and_moonlight
